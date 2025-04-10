@@ -5,14 +5,14 @@
 </p>
 
 
-- I'm a **QA Architect | Software Developer | SDET**
+- I'm Smitha Kundapura **QA Architect | Backend Developer | SDET**
 - Currently **Working as a QA Architect at a Financial Institution**
 - **15+ years in IT industry**: Led and contributed to over 20 projects as a QA Architect, Developer, and SDET, with 6+ years managing enterprise-level applications and distributed systems using microservices architecture.
-- **Agile Methodologies**: Successfully delivered enterprise-level web applications, adhering to Agile Scrum and Kanabn methodologies and covering the entire SDLC—achieving a 95% on-time delivery rate.
+- **Agile Methodologies**: Successfully delivered enterprise-level web applications, adhering to Agile Scrum and Kanban methodologies and covering the entire SDLC—achieving a 95% on-time delivery rate.
 - **Team Leadership**: Managed teams of up to 10 members, improving project efficiency by 30% and reducing defect rates by 25% through mentoring and best practice implementation.
 - **Problem Solving**: Enhanced debugging and troubleshooting processes, reducing critical issue resolution times.
 - Find out more about my projects at **LinkedIn** : [Smitha Kundapura](https://www.linkedin.com/in/smitha-kundapura)
-- Occasionally I take up freelancing projects. Here is a glimpse of my work :
+- Occasionally, I take up freelancing projects. Here is a glimpse of my work :
       <a href="https://www.nextgencodingcompany.com/case-study/wotc-qa">WOTC-QA</a> and 
       <a href="https://www.nextgencodingcompany.com/case-study/taxnow-qa">TAXNOW-QA</a>
 
