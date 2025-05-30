@@ -6,7 +6,6 @@
 
 
 - I'm Smitha Kundapura : **QA Architect | Backend Developer | SDET**
-- Currently **Working as a QA Architect at a Financial Institution**
 - **15+ years in IT industry**: Led and contributed to over 20 projects as a QA Architect, Developer, and SDET, with 6+ years managing enterprise-level applications and distributed systems using microservices architecture.
 - **Agile Methodologies**: Successfully delivered enterprise-level web applications, adhering to Agile Scrum and Kanban methodologies and covering the entire SDLC—achieving a 95% on-time delivery rate.
 - **Team Leadership**: Managed teams of up to 10 members, improving project efficiency by 30% and reducing defect rates by 25% through mentoring and best practice implementation.
