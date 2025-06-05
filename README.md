@@ -1,5 +1,5 @@
 ## Hi there!! 
-![Profile Views:](https://komarev.com/ghpvc/?username=smitha-kundapura&base=254&style=flat-square)
+![Profile Views:](https://komarev.com/ghpvc/?username=smitha-kundapura&base=252&style=for-the-badge)
 
 <p align="center">
 <img width="20%" src="https://png.pngtree.com/png-clipart/20200224/original/pngtree-programmer-woman-vector-programmer-workspace-working-on-internet-using-laptop-cartoon-png-image_5204959.jpg"/>
